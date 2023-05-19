@@ -1,6 +1,6 @@
 ---
 layout: page
-title: /hyde/About
+title: About
 ---
 
 <p class="message">
