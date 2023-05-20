@@ -3,4 +3,4 @@ layout: page
 title: Main
 ---
 
-{% include bod.html %}
+<p>hello world</p>
