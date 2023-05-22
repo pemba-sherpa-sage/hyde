@@ -2,4 +2,5 @@
 layout: page
 title: Mainx
 ---
-[tax]({% link _includes/tax.html %})
+<a href="{% link _includes/tax.html %}">tax</a>
+
