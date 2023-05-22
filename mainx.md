@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Main
+title: Mainx
 ---
 {% include tax.html %}

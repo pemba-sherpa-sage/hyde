@@ -1,6 +1,6 @@
 ---
 layout: page
-title: UI Components
+title: main
 nav_order: 3
 has_children: true
 permalink: /
