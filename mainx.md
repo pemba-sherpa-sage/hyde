@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Mainx
 ---
-{% include tax.html %}
+{% link _include/tax.html %}
