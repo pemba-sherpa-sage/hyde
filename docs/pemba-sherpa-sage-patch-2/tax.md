@@ -2,4 +2,4 @@
 layout: default
 title: tax
 ---
-{% include pemba-sherpa-sage-patch-2/tax.html %}
+{% include _includes/pemba-sherpa-sage-patch-2/tax.html %}
